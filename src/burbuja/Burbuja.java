@@ -6,6 +6,9 @@
 /*
 *Tomado de 
 *https://www.lawebdelprogramador.com/codigo/Java/2666-Metodo-de-ordenacion-de-Burbuja.html
+*Ayuda algoritmo:
+Algoritmos de ordenación – 4. Burbuja
+*https://www.youtube.com/watch?v=EQMGabLO_M0
 */
 
 package burbuja;
